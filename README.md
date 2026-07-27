@@ -21,7 +21,7 @@ The application monitors device usage and intervenes when pre-defined screen tim
 - Android Studio Koala or newer
 - Android device or emulator running API level 26 (Android 8.0) or higher
 
-### Installation and Setup
+### Build and Setup
 
 1. **Repository Acquisition**:
    Clone the repository using the following command:
@@ -40,6 +40,10 @@ The application monitors device usage and intervenes when pre-defined screen tim
 
 4. **Deployment**:
    Execute the build process and run the application on your target device using the standard Android Studio run configuration.
+
+ ### Or install the app
+
+   You can find the .apk file in the release section.
 
 ## Technical Architecture
 
