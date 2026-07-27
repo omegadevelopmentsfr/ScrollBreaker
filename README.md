@@ -1,6 +1,6 @@
-# ScrollBreak
+# ScrollBreaker
 
-ScrollBreak is an Android application designed to mitigate compulsive mobile usage by substituting social media "doomscrolling" with productive learning intervals. 
+ScrollBreaker is an Android application designed to mitigate compulsive mobile usage by substituting social media "doomscrolling" with productive learning intervals. 
 
 The application monitors device usage and intervenes when pre-defined screen time limits are exceeded on distracting platforms, presenting users with educational content from Wikipedia or Dev.to to foster mindful digital habits.
 
@@ -26,11 +26,11 @@ The application monitors device usage and intervenes when pre-defined screen tim
 1. **Repository Acquisition**:
    Clone the repository using the following command:
    ```bash
-   git clone https://github.com/yourusername/scrollbreak.git
+   git clone https://github.com/omegadevelopmentsfr/ScrollBreaker.git
    ```
 
 2. **Project Import**:
-   Launch Android Studio, select **File > Open**, and navigate to the `scrollbreak` directory.
+   Launch Android Studio, select **File > Open**, and navigate to the `scrollbreaker` directory.
 
 3. **Permission Configuration**:
    To function effectively, the application requires the following system permissions:
