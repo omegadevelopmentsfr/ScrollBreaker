@@ -1,0 +1,11 @@
+- `[x]` Clean up Gemini references in configuration files
+    - `[x]` Remove Gemini from `metadata.json`
+    - `[x]` Clean up `.env.example`
+- `[x]` Update build system to remove AI/Secrets dependencies
+    - `[x]` Remove secrets plugin and firebase-ai from `app/build.gradle.kts`
+    - `[x]` Remove secrets plugin from top-level `build.gradle.kts`
+    - `[x]` Remove unused versions/libraries from `libs.versions.toml`
+- `[x]` Regenerate `README.md` for GitHub presentation (Professional version, no emojis)
+- `[ ]` Verification
+    - `[ ]` Run `./gradlew assembleDebug`
+    - `[x]` Grep for any remaining "Gemini" or "API_KEY" references
